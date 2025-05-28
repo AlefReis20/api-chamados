@@ -1,7 +1,6 @@
 node_modules/
 .env
 dist/
-.prettierignore
-.prettierrc
+
 *.log
 .DS_Store
