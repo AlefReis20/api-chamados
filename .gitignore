@@ -3,3 +3,5 @@ node_modules/
 dist/
 .prettierignore
 .prettierrc
+*.log
+.DS_Store
